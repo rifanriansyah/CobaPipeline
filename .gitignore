@@ -1,7 +1,0 @@
-.DS_Store
-
-scripts/*
-
-appspec.yml
-buildspec.yml
-Installing_CodeDeploy_Agent.md
